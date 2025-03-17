@@ -1,0 +1,16 @@
+.first-button
+{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.second-button
+{
+    background-color: rgb(255, 249, 88);
+}
+
+.font-misc
+{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+}
